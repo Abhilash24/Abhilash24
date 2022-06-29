@@ -1,4 +1,4 @@
-<img src="./hello.gif" width=1280 height=520>
+<img src="./hello.gif" width=912 height=370>
 
 <p align="center"> 
  <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"><br><br>
