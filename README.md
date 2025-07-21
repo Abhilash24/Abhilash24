@@ -37,7 +37,7 @@ class Student:
 <h1 align="left">💻Coding platforms 👨‍💻🌐:</h1>
 <p align="left">
  <a href="https://www.codechef.com/users/abhilash24"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
- <a href="https://leetcode.com/abhilash245/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"><a>
+ <a href="https://leetcode.com/abhilash789/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"><a>
 </p>
   
   
