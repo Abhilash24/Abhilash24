@@ -16,9 +16,6 @@
 
 <br />
 
-<img align="right" src="./IMG_1072.JPG" alt="Abhilash Ramteke" width="220" />
-
-# <img align="center" src="./Ry6p.gif" alt="" width="36" height="36" /> About me
 
 ```python
 class Developer:
