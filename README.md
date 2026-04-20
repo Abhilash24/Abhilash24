@@ -15,12 +15,3 @@
 </p>
 
 <br />
-
-
-```python
-class Developer:
-    def __init__(self):
-        self.university = "IIT Delhi"
-        self.department = "Computer Science and Engineering"
-        self.experience = "8+ years"
-        self.build_style = "Agentic AI for code & product"
